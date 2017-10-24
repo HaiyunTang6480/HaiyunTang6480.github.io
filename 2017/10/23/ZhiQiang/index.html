@@ -373,27 +373,19 @@
 
 
     
-        <section id="comments">
-    <style> aside.comment-bar { margin: auto 30px; }</style>
-    <div id="disqus_thread"></div>
+        <section class="youyan" id="comments">
     <script>
-        var disqus_config = function(){
-            this.page.url = 'http://yoursite.com/2017/10/23/ZhiQiang/';
-            this.page.identifier = '2017/10/23/ZhiQiang/';
-        };
         var loadComment = function(){
             var d = document, s = d.createElement('script');
-            s.src = '//https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname- It is unnecessary to enable disqus here if you have set &#34;disqus_shortname&#34; in your site&#39;s &#34;_config.yml&#34;.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
+            s.src = 'http://v2.uyan.cc/code/uyan.js?uid=';
             (d.head || d.body).appendChild(s);
         }
     </script>
     
     <script> loadComment(); </script>
 
+    <div id="uyan_frame"></div>
 </section>
-
-
     
 
 
