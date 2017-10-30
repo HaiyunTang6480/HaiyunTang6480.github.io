@@ -3,15 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[github配置博客转发评论问题]]></title>
-      <url>/2017/10/26/Yeleetheme/</url>
-      <content type="html"><![CDATA[<p><span style="font-weight:bold;font-size:16px;">Hexo配置博客问题</span><br><a id="more"></a><br>部署后转发和评论都点击没反应<br><img src="/img/imgye.png" alt=""><br>显示是不安全的脚本<br><img src="/img/imgye1.png" alt=""><br>要点击加载不安全的脚本后才可使用转发和评论。<br><img src="/img/imgye2.png" alt=""><br>有这方面的大神知道怎么解决吗？</p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[My New Post]]></title>
       <url>/2017/10/18/My-New-Post/</url>
       <content type="html"><![CDATA[<!-- Go to www.addthis.com/dashboard to customize your tools -->
